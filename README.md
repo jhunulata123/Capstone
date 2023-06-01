@@ -42,7 +42,7 @@ The social media website utilizes the following technologies:
 ## Installation
 To set up the social media website locally, follow these steps:
 
-* Clone the repository: git clone `https://github.com/your-repo-url.git`
+* Clone the repository: git clone `https://github.com/jhunulata123/Capstron`
 * Install the necessary dependencies: `npm install`
 * Configure the environment variables for the back-end, such as the database connection URL and JWT secret key.
 * Start the development server: `npm start`
