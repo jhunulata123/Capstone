@@ -46,6 +46,7 @@ To set up the social media website locally, follow these steps:
 * Install the necessary dependencies: `npm install`
 * Configure the environment variables for the back-end, such as the database connection URL and JWT secret key.
 * Start the development server: `npm start`
+#### The application  will now be acessible at ->https://647f024ee4e05106071220eb--aquamarine-mochi-1e6242.netlify.app/
 
 ## Usage
 Once the social media website is installed and running, users can access it through their preferred web browser.
